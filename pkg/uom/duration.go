@@ -1,4 +1,4 @@
-package units
+package uom
 
 import (
 	"fmt"
